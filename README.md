@@ -25,9 +25,12 @@ INPUT REQUIREMENTS:
 - All input data must be part of the same projected coordinate system.
 
 Three different data sets are required as input:
+
 	- 1. Digital Elevation Model of the region in geotif format.
+
 	- 2. Bedrock Data in polygon shapefile format, where one attribute field distinguishes 
 	     between different bedrock types. The attribute field must be numeric.
+
 	- 3. Fault Data in polyline shapefile format, where one attribute field distinguishes 
 	     between different fault types. The attribute field must be numeric.
 
@@ -43,6 +46,7 @@ CONTENT:
 The TIE-toolbox contains four folders and one master running script.
 
 The folders are:
+
 	- LOADfunctions
 		-> contains all functions that are needed to load the data and put the data in 
 		   the TIE compatible format.
