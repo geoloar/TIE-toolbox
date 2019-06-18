@@ -93,7 +93,7 @@ ADVICE:
 
 -----
 CONTACT:
-
-Anna Rauch
-University of Geneva
+//
+Anna Rauch //
+University of Geneva //
 anna.rauch@unige.ch
