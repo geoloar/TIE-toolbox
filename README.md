@@ -72,9 +72,11 @@ EXAMPLE:
 
 In the "Example Data" folder we propose a practical example in order to get used to TIE. 
 
-[Add the advice for the path]
+The data are presented and discussed in detail in Rauch et al. (2019): 
+https://doi.org/10.1016/j.jsg.2019.06.007
 
-type "master" in the command window and ...
+The example data are already set as initial data set of the TIE-toolbox. Run the master in order to see
+the TIE results. If you wish to run your own data, just change the INPUT data in the master file.
 
 -----
 ADVICE:
@@ -93,7 +95,7 @@ ADVICE:
 
 -----
 CONTACT:
-//
+
 Anna Rauch //
 University of Geneva //
 anna.rauch@unige.ch
