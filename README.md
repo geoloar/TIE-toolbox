@@ -60,14 +60,17 @@ The folders are:
 		-> contains all functions that are needed to visualise trace data
 
 The script master.m allows to:
+
 	-> define the personal input data
 	-> load the data and perform the TIE
 	-> visualize results
+
 		-> figure(1): map in 3d with traces and trace numbers
 		-> figure(2): map in 3d with classified traces and chord plane bars
 		-> figure(3): signals of alpha, beta and dist of a specific trace
 		-> figure(4): chords and chord plane evolution of a specific trace in a stereonet
 		-> figure(5): signal height diagram
+
 - Make sure the TIE-toolbox with all its subfolders is registered as a Matlab search path.
 
 
