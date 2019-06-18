@@ -1,0 +1,11 @@
+
+Source: Swiss Federal Office of Topography
+
+Shapefiles are extracted from GeoCover data
+DEM is extracted from swissALTI3D
+
+The sample data show their type and format. 
+They are free of charge and can be used for test purposes only. 
+It is not allowed to include them in a product. 
+
+Coordinate System CH1903+/LV95: X: 1’165’850 - 1’167’500, Y: 2’592’150 - 2’593’850.
