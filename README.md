@@ -2,9 +2,9 @@
 
 PURPOSE:
 
-The TIEtoolbox is a set of functions that performs the Trace Information Extraction (TIE) algorithm 
-on traces (bedrock interface traces and fault traces) in a geological map. The TIEtoolbox allows to 
-load the geological spatial data, extract the traces, perform the TIE and visualise the results.For more
+The TIE-toolbox is a set of functions that performs the Trace Information Extraction (TIE) algorithm 
+on traces (bedrock interface traces and fault traces) in a geological map. The TIE-toolbox allows to 
+load the geological spatial data, extract the traces, perform the TIE and visualize the results. For more
 information concerning the TIE, see Rauch et al. (2019): https://doi.org/10.1016/j.jsg.2019.06.007.
 
 
@@ -40,7 +40,7 @@ useful to be compared to.
 -----
 CONTENT:
 
-The TIEtoolbox contains four folders and one master running script.
+The TIE-toolbox contains four folders and one master running script.
 
 The folders are:
 	- LOADfunctions
@@ -64,7 +64,7 @@ The script master.m allows to:
 		-> figure(3): signals of alpha, beta and dist of a specific trace
 		-> figure(4): chords and chord plane evolution of a specific trace in a stereonet
 		-> figure(5): signal height diagram
-- Make sure the TIEtoolbox with all its subfolders is registered as a Matlab search path.
+- Make sure the TIE-toolbox with all its subfolders is registered as a Matlab search path.
 
 
 -----
